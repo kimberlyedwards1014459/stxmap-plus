@@ -1,0 +1,25 @@
+{
+  "name": "stxmap-plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kimberlyedwards1014459/stxmap-plus"
+  },
+  "keywords": [
+    "stxmap"
+  ],
+  "author": "fsql",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimberlyedwards1014459/stxmap-plus/issues"
+  },
+  "homepage": "https://github.com/kimberlyedwards1014459/stxmap-plus#readme",
+  "dependencies": {
+    "stxmap-address-rank": "^1.0.6"
+  }
+}
