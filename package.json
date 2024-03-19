@@ -1,6 +1,6 @@
 {
   "name": "stxmap-plus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/kimberlyedwards1014459/stxmap-plus#readme",
   "dependencies": {
-    "stxmap-address-rank": "^1.0.6"
+    "stxmap-address-rank": "^1.0.6",
+	"stxmap-rank-cli": "^1.0.6"
   }
 }
